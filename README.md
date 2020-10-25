@@ -13,19 +13,44 @@
 
 ### Connect with me:
 
-[<img align="left" alt="wandgibaut | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons//researchgate.svg" />][researchgate]
+[<img align="left" alt="wandgibaut | Researchgate" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons//researchgate.svg" />][researchgate]
 [<img align="left" alt="wandgibaut | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="wandgibaut | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="wandgibaut | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+
+
+### Languages and Tools:
+
+[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][github]
+[<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][github]
+[<img align="left" alt="docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][github]
+[<img align="left" alt="arduino" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" />][github]
+[<img align="left" alt="arduino" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][github]
+
 <br />
+<br />
+
+---
+
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=wandgibaut&count_private=true&show_icons=true&hide_border=true" />
+
+
+  <img align="right" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wandgibaut&layout=compact" />
+
+</details>
+
 
 
 
 
 [website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
+[github]: https://github.com/wandgibaut
 [twitter]: https://twitter.com/wandgibaut
 [instagram]: https://instagram.com/wandgibaut
 [linkedin]: https://www.linkedin.com/in/wandgibaut/
