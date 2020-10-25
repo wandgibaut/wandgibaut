@@ -38,11 +38,12 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=wandgibaut&count_private=true&show_icons=true&hide_border=true" />
-
-
-  <img align="right" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wandgibaut&layout=compact" />
-
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.codestackr.vercel.app/api?username=wandgibaut&count_private=true&show_icons=true&hide_border=true" />
+ </a>
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wandgibaut&layout=compact" />
+ </a>
 </details>
 
 
