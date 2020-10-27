@@ -1,6 +1,12 @@
 ### Hi there, I'm Wandemberg Gibaut 👋
 
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=wandgibaut)
+<br />
+![GitHub followers](https://img.shields.io/github/followers/wandgibaut?color=%23000&label=Follow&logo=github&style=for-the-badge)
+![Twitter Follow](https://img.shields.io/twitter/follow/wandgibaut?color=1DA1F2&logo=Twitter&style=for-the-badge)
+
+
 ## I'm a Geek, Engineer, Researcher and sometimes a Teacher!!
 
 <br />
@@ -23,11 +29,33 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][github]
-[<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][github]
-[<img align="left" alt="docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][github]
-[<img align="left" alt="arduino" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" />][github]
-[<img align="left" alt="arduino" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][github]
+[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/63a94a3737b0b860a33f535f68b15baec158ddf4/src/images/icons/ProgrammingLanguages/python.svg" />][github]
+
+[<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/63a94a3737b0b860a33f535f68b15baec158ddf4/src/images/icons/ProgrammingLanguages/java.svg" />][github]
+
+[<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/63a94a3737b0b860a33f535f68b15baec158ddf4/src/images/icons/ProgrammingLanguages/c.svg" />][github]
+
+[<img align="left" alt="Matlab" width="26px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/63a94a3737b0b860a33f535f68b15baec158ddf4/src/images/icons/Software/matlab.svg" />][github]
+
+[<img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/63a94a3737b0b860a33f535f68b15baec158ddf4/src/images/icons/Devops/bash.svg" />][github]
+
+[<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/63a94a3737b0b860a33f535f68b15baec158ddf4/src/images/icons/Other/linux.svg" />][github]
+
+[<img align="left" alt="docker" width="26px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/63a94a3737b0b860a33f535f68b15baec158ddf4/src/images/icons/Devops/docker.svg" />][github]
+
+[<img align="left" alt="Mongo" width="26px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/63a94a3737b0b860a33f535f68b15baec158ddf4/src/images/icons/Database/mongodb.svg" />][github]
+
+[<img align="left" alt="Tensorflow" width="26px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/63a94a3737b0b860a33f535f68b15baec158ddf4/src/images/icons/AIML/tensorflow.svg" />][github]
+
+[<img align="left" alt="Scikit learn" width="26px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/63a94a3737b0b860a33f535f68b15baec158ddf4/src/images/icons/AIML/scikit.svg" />][github]
+
+[<img align="left" alt="arduino" width="26px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/63a94a3737b0b860a33f535f68b15baec158ddf4/src/images/icons/Other/arduino.svg" />][github]
+
+[<img align="left" alt="git" width="26px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/63a94a3737b0b860a33f535f68b15baec158ddf4/src/images/icons/Other/git.svg" />][github]
+
+[<img align="left" alt="TravisCI" width="26px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/63a94a3737b0b860a33f535f68b15baec158ddf4/src/images/icons/Devops/travisci.svg" />][github]
+
+
 
 <br />
 <br />
@@ -42,11 +70,20 @@
   <img align="center" src="https://github-readme-stats.codestackr.vercel.app/api?username=wandgibaut&count_private=true&show_icons=true&hide_border=true" />
  </a>
  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wandgibaut&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wandgibaut&count_private=true&layout=compact" />
  </a>
 </details>
 
+---
 
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+  
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+</details>
 
 
 
