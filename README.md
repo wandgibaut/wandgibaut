@@ -2,9 +2,8 @@
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=wandgibaut)
-<br />
-![GitHub followers](https://img.shields.io/github/followers/wandgibaut?color=%23000&label=Follow&logo=github&style=for-the-badge)
-![Twitter Follow](https://img.shields.io/twitter/follow/wandgibaut?color=1DA1F2&logo=Twitter&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/wandgibaut?label=Follow&style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/wandgibaut?style=social)
 
 
 ## I'm a Geek, Engineer, Researcher and sometimes a Teacher!!
