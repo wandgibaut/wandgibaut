@@ -18,10 +18,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="wandgibaut | Researchgate" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons//researchgate.svg" />][researchgate]
-[<img align="left" alt="wandgibaut | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="wandgibaut | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="wandgibaut | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="wandgibaut | Researchgate" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" />][researchgate]
+[<img align="left" alt="wandgibaut | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
+[<img align="left" alt="wandgibaut | Twitter" width="22px" src="https://image.flaticon.com/icons/png/512/733/733579.png" />][twitter]
+[<img align="left" alt="wandgibaut | Instagram" width="22px" src="https://image.flaticon.com/icons/png/512/174/174855.png" />][instagram]
 
 <br />
 
@@ -65,11 +65,11 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.codestackr.vercel.app/api?username=wandgibaut&count_private=true&show_icons=true&hide_border=true" />
+ <a href="https://github.com/wandgibaut">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wandgibaut&theme=dark&show_icons=true&count_private=true" />
  </a>
- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wandgibaut&count_private=true&layout=compact" />
+ <a href="https://github.com/wandgibaut">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wandgibaut&theme=dark&count_private=true&layout=compact" />
  </a>
 </details>
 
