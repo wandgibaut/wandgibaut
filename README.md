@@ -22,6 +22,7 @@
 [<img align="left" alt="wandgibaut | LinkedIn" width="22px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img align="left" alt="wandgibaut | Twitter" width="22px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img align="left" alt="wandgibaut | Instagram" width="22px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
+
 <br />
 
 
@@ -64,24 +65,15 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.codestackr.vercel.app/api?username=wandgibaut&count_private=true&show_icons=true&hide_border=true" />
+ <a href="https://github.com/wandgibaut">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wandgibaut&theme=dark&show_icons=true&count_private=true" />
  </a>
- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wandgibaut&count_private=true&layout=compact" />
+ <a href="https://github.com/wandgibaut">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wandgibaut&theme=dark&count_private=true&layout=compact" />
  </a>
 </details>
 
 
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
-</details>
 
 
 
