@@ -6,13 +6,14 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/wandgibaut?style=social)
 
 
-## I'm a Geek, Engineer, Researcher and sometimes a Teacher!!
+## I'm a Geek, Engineer, Researcher and a Teacher!!
 
 <br />
 
 - :man_technologist: I’m currently working on my PhD Project :nerd_face: :thinking: 	  
 - 👯 I’m looking to collaborate with other researchers
 - ⚡ Fun facts: I love to dance Forró and practice Jiu-Jitsu
+- :hugs: Check my [huggingface profile](https://huggingface.co/wandgibaut) for some large-model projects
 - [<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="python" width="20" height="20"/>](https://wandgibaut.github.io/) Also, check my personal page [here](https://wandgibaut.github.io/)
 
 
