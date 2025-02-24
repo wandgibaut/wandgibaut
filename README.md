@@ -10,7 +10,7 @@
 
 <br />
 
-- :man_technologist: I’m currently working on my PhD Project :nerd_face: :thinking: 	  
+- :man_technologist: I’m currently working on Industry and with some personal projects :nerd_face: :thinking: 	  
 - 👯 I’m looking to collaborate with other researchers
 - ⚡ Fun facts: I love to dance Forró and practice Jiu-Jitsu
 - :hugs: Check my [huggingface profile](https://huggingface.co/wandgibaut) for some large-model projects
